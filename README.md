@@ -1,4 +1,4 @@
-# Ollama RAG Flask – Agentic PDF Q&A
+# Ollama RAG Flask – PDF Q&A
 
 Local, private, and fast question-answering over your PDFs using a Retrieval-Augmented Generation (RAG) pipeline with an agentic multi-step planner. Backend runs on Flask with [Ollama](https://ollama.com) models, embeddings stored in ChromaDB. Frontend is a clean single-page UI with model/temperature/top-k controls and drag-and-drop PDF ingestion.
 
